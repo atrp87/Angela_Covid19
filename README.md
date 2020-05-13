@@ -1,10 +1,6 @@
 ## COVID-19 "Angela"
 
-This is a project to let people help each other and fight to COVID-19
-
-#### Porject Information:
-
-As the COVID-19 has seriously damaged human’s lives and the economy. Lots of families are losing their lovers, lots of isolating people need help but lots of key workers feel tired when they fight with the virus for long hours. To reduce the burden of our key workers, lots of volunteers stand out and say they can help. But how do the volunteers know who needs help, where are them and what kind of needs are? Here we can build an app to do this job.
+COVID-19 has seriously affected human lives and the economy of the world causing untold physical, mental and financial hardship for many.The population of the UK and Northern Ireland is self isolating but many people without family and friends are vulnerable and need help from other people. Key workers and volunteers across all sectors are exhausted from the many hours they are devoting to help those vulnerable people.This App is designed to help the volunteers find those that need help in their area and to assist them in any way they can.This is the purpose of the Angela App.
 
 ### MVP
 
