@@ -1,6 +1,27 @@
 ## COVID-19 "Angela"
 
-COVID-19 has seriously affected human lives and the economy of the world causing untold physical, mental and financial hardship for many.The population of the UK and Northern Ireland is self isolating but many people without family and friends are vulnerable and need help from other people. Key workers and volunteers across all sectors are exhausted from the many hours they are devoting to help those vulnerable people.This App is designed to help the volunteers find those that need help in their area and to assist them in any way they can.This is the purpose of the Angela App.
+Worked in a team of three where we had one week to colaborate on a 
+
+During this project I got to consolidate and expand on everything I had learned in the previous 3 weeks @ CodeClan.
+
+Ruby | PostgreSQL | Sinatra
+HTML | CSS
+Restful routes
+CRUD Actions
+Single responsibility
+project structure and good naming conventions.
+Breif:
+The app should allow the user to create and edit merchants, e.g. Tesco, Amazon, ScotRail
+The app should allow the user to create and edit tags for their spending, e.g. groceries, entertainment, transport
+The user should be able to assign tags and merchants to a transaction, as well as an amount spent on each transaction.
+The app should display all the transactions a user has made in a single view, with each transaction's amount, merchant and tag, and a total for all transactions.
+Project Overview:
+Planning
+Object oriented programming with Ruby
+Web Programming (Sinatra, REST, MVC)
+Interacting with a PostgreSQL database (CRUD)
+Version control Git & GitHub
+Presentation
 
 ### MVP
 
