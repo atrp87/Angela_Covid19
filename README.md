@@ -9,7 +9,8 @@ During this project we got to consolidate and expand on everything I had learned
 * OOP: Javascript
 * TDD: Mocha
 * Web Programming: Vue.js
-* DB design (MongoDB)
+* DB design: MongoDB
+* API: Leaflet
 * DOM manipulation
 * HTML & CSS
 * Version control: Git & GitHub
