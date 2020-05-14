@@ -15,6 +15,7 @@ During this project we got to consolidate and expand on everything I had learned
 * CRUD Actions
 * Single responsibility
 * project structure and good naming conventions.
+* Planning and presentations.
 
 ### Project Overview:
 
