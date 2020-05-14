@@ -6,16 +6,14 @@ We had one week to create a Web application that involves collecting shopping, m
 
 During this project we got to consolidate and expand on everything I had learned in the previous 6 weeks @ CodeClan.
 
-* OOP (Ruby)
-* Web Programming (Sinatra, REST, MVC)
-* DB design (PostgreSQL) 
-* HTML | CSS
-* Version control Git & GitHub
-* Restful routes
-* CRUD Actions
-* Single responsibility
-* project structure and good naming conventions.
-* Planning and presentations.
+* OOP (Javascript)
+• Web app development (Vue.js)
+• TDD in (JavaScript | Mocha)
+• DB design (MongoDB)
+• HTML and CSS
+• DOM manipulation
+• Git and GitHub
+• Agile methodologies
 
 ### Project Overview:
 
