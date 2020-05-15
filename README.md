@@ -4,7 +4,7 @@ Worked in a team of three where we used Agile methodologies (SCRUM), paired and 
 
 We had one week to create a Web application that involves collecting shopping, medication or other essential supplies for someone who is self-isolating/vulnerable, and delivering these supplies to their home.
 
-During this project we got to consolidate and expand on everything I had learned in the previous 6 weeks @ CodeClan.
+During this project we got to consolidate and expand on everything I had learnt in the previous 6 weeks @ CodeClan.
 
 * OOP - Javascript
 * TDD - Mocha
