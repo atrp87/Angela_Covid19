@@ -18,7 +18,7 @@ During this project we got to consolidate and expand on everything I had learned
 
 ### Project Overview:
 
-* The app should allow the user to create and edit categorys for their requests, e.g. groceries, medication.
+* The app should allow the user to create and edit categories for their requests, e.g. groceries, medication.
 * The app should allow the user to create and edit requests, e.g. Milk, Oats, Bananas.
-* The app should allow the user to delete and edit categorys and requests.
-* The user should be able to assign self-isolating/vulnerable to a volunteers, as well as pin the request on the leaflet map.
+* The app should allow the user to delete and edit categories and requests.
+* The user should be able to assign self-isolating/vulnerable to volunteers, as well as pin the request on the leaflet map.
