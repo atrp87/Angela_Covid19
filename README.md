@@ -1,6 +1,6 @@
 ## COVID-19 "Angela"
 
-Worked in a team of three where we used Aagile methodologies (SCRUM), paired and mob programming.
+Worked in a team of three where we used Agile methodologies (SCRUM), paired and mob programming.
 
 We had one week to create a Web application that involves collecting shopping, medication or other essential supplies for someone who is self-isolating/vulnerable, and delivering these supplies to their home.
 
