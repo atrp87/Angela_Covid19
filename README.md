@@ -6,14 +6,14 @@ We had one week to create a Web application that involves collecting shopping, m
 
 During this project we got to consolidate and expand on everything I had learnt in the previous 6 weeks @ CodeClan.
 
-* OOP - Javascript
-* TDD - Mocha
-* Web Programming - Vue.js
-* DB design - MongoDB
-* API - Leaflet
+* Javascript
+* Mocha
+* Vue.js
+* MongoDB
+* Leaflet
 * DOM manipulation
 * HTML & CSS
-* Version control - Git & GitHub
+* Git & GitHub
 * Agile methodologies
 
 ### Project Overview:
