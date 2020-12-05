@@ -1,20 +1,13 @@
 ## COVID-19 "Angela"
 [[Live Version]](https://boring-wozniak-c62dd8.netlify.app/#/)
 
-Worked in a team of three where we used Agile methodologies (SCRUM), paired and mob programming.
+A Full-stack app that involves collecting shopping, medication or other essential supplies for someone who is self-isolating/vulnerable, and delivering the supplies to their home.
 
-We had one week to create a Web application that involves collecting shopping, medication or other essential supplies for someone who is self-isolating/vulnerable, and delivering these supplies to their home.
+During this project I got to consolidate and expand on everything I had learnt in the previous 6 weeks @ CodeClan.
 
-During this project we got to consolidate and expand on everything I had learnt in the previous 6 weeks @ CodeClan.
-
-* Javascript
-* Mocha
-* Vue.js
-* MongoDB
+* Javascript, Vue.js, MongoDB, HTML & CSS
 * Leaflet
 * DOM manipulation
-* HTML & CSS
-* Git & GitHub
 * Agile methodologies
 
 ### Project Overview:
