@@ -3,6 +3,8 @@
 
 A Full-stack app that involves collecting shopping, medication or other essential supplies for someone who is self-isolating/vulnerable, and delivering the supplies to their home.
 
+
+
 During this project I got to consolidate and expand on everything I had learnt in the previous 6 weeks @ CodeClan.
 
 * Javascript, Vue.js, MongoDB, HTML & CSS
