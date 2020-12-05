@@ -5,10 +5,10 @@ A Full-stack app that involves collecting shopping, medication or other essentia
 
 
 ### Built With
-* [[Javascript]](https://www.javascript.com/)
-* [[Vue]](https://vuejs.org/)
-* [[MongoDB]](https://www.mongodb.com/)
-* [[Bootstrap]](https://getbootstrap.com)
+* [Javascript](https://www.javascript.com/)
+* [Vue](https://vuejs.org/)
+* [MongoDB](https://www.mongodb.com/)
+* [Bootstrap](https://getbootstrap.com)
 
 
 ## Project setup
