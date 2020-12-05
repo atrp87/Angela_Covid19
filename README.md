@@ -1,5 +1,5 @@
 ## COVID-19 "Angela"
-[Live Version](https://boring-wozniak-c62dd8.netlify.app/#/)
+[[Live Version]](https://boring-wozniak-c62dd8.netlify.app/#/)
 
 Worked in a team of three where we used Agile methodologies (SCRUM), paired and mob programming.
 
