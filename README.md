@@ -10,6 +10,27 @@ During this project I got to consolidate and expand on everything I had learnt i
 * DOM manipulation
 * Agile methodologies
 
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+Runs the app in the development mode.
+
+Open http://localhost:8080 to view it in the browser.
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
 ### Project Overview:
 
 * The app should allow the user to create and edit categories for their requests, e.g. groceries, medication.
