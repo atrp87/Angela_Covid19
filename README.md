@@ -9,6 +9,7 @@ A Full-stack app that involves collecting shopping, medication or other essentia
 ### Built With
 * [Javascript](https://www.javascript.com/)
 * [Vue](https://vuejs.org/)
+* [Leaflet](https://leafletjs.com/)
 * [MongoDB](https://www.mongodb.com/)
 * [Bootstrap](https://getbootstrap.com)
 
