@@ -5,14 +5,12 @@ A Full-stack app that involves collecting shopping, medication or other essentia
 
 ![](https://github.com/atrp87/Covid_19_Group_Project/raw/master/Covid_A.gif)
 
-
 ### Built With
 * [Javascript](https://www.javascript.com/)
 * [Vue](https://vuejs.org/)
 * [Leaflet](https://leafletjs.com/)
 * [MongoDB](https://www.mongodb.com/)
 * [Bootstrap](https://getbootstrap.com)
-
 
 ## Project setup
 ```
