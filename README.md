@@ -1,11 +1,11 @@
-## COVID-19 "Angela" Project
+# COVID-19 "Angela" Project
 [[Live Version]](https://boring-wozniak-c62dd8.netlify.app/#/)
 
 A Full-stack app that involves collecting shopping, medication or other essential supplies for someone who is self-isolating/vulnerable, and delivering the supplies to their home.
 
 ![](https://github.com/atrp87/Covid_19_Group_Project/raw/master/Covid_A.gif)
 
-### Built With
+## Built With
 * [Javascript](https://www.javascript.com/)
 * [Vue](https://vuejs.org/)
 * [Leaflet](https://leafletjs.com/)
