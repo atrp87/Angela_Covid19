@@ -3,7 +3,7 @@
 
 A Full-stack app that involves collecting shopping, medication or other essential supplies for someone who is self-isolating/vulnerable, and delivering the supplies to their home.
 
-![](https://github.com/atrp87/Covid_19_Group_Project/raw/master/Covid_A.gif)
+<img src="images/s1" width="500" height="300"> <img src="images/s2" width="500" height="300"> <img src="images/s3.png" width="500" height="300"> <img src="images/s4.png" width="500" height="300">
 
 ## Built With
 * [Javascript](https://www.javascript.com/)
