@@ -1,9 +1,14 @@
 # COVID-19 "Angela" Project
 [[Live Version]](https://boring-wozniak-c62dd8.netlify.app/#/)
 
-A Full-stack app that involves collecting shopping, medication or other essential supplies for someone who is self-isolating/vulnerable, and delivering the supplies to their home.
+A Full-stack application that involves volunteers collecting food, medication or other essential supplies for someone who is self-isolating or vulnerable, and delivering these supplies to their home.
 
 ![Alt Text](Covid_A.gif)
+
+* Local JSON API to add and manage requests
+* Geolocation API to get the geographical position of a user
+* Nominatim API to acquire the geographic coordinates
+* Leaflet maps markers to pin requests on the map
 
 ## Built With
 * [Javascript](https://www.javascript.com/)
