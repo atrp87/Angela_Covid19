@@ -1,4 +1,4 @@
-# COVID-19 "Angela" Project
+# COVID-19 Project Angela
 [[Live Version]](https://boring-wozniak-c62dd8.netlify.app/#/)
 
 A Full-stack application that involves volunteers collecting food, medication or other essential supplies for someone who is self-isolating or vulnerable, and delivering these supplies to their home.
