@@ -3,7 +3,7 @@
 
 A Full-stack application that involves volunteers collecting food, medication or other essential supplies for someone who is self-isolating or vulnerable, and delivering these supplies to their home.
 
-![Alt Text](Covid_A.gif)
+![Alt Text](COVID_App.gif)
 
 * Local JSON API to add and manage requests
 * Geolocation API to get the geographical position of a user
