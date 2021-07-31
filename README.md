@@ -16,9 +16,9 @@ Group project, we had a team of 3 and used the scrum framework for the week wher
 
 Git Branching and Merging - Getting more exposure creating an isolated environment to try out a new feature and merging it to the develop branch and resolving conflicts that surfaced.
 
-Using the Scrum framework one of our instructors acted as a product owner but we created the backlog ourselves and picked off user stories to plan each sprint. One of us acted as a Scrum master to manage the work we were doing
+Using the Scrum framework one of our instructors acted as a product owner but we created the backlog ourselves and picked off user stories to plan each sprint. One of us acted as a Scrum master to manage the work we were doing.
 
-External APIs and async Javascript ( Promises, fetch API and error handling)
+External APIs and async Javascript ( Promises, fetch API and error handling ).
 
 ## Built With
 * [Javascript](https://www.javascript.com/)
