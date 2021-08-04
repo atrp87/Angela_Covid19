@@ -15,6 +15,7 @@
 
 ## General Information
 - Group project, we had a team of 3 and used the scrum framework for the week where we presented our project on the final day. Fully remote where the team utilised VS Code’s live share extension allowing collaborative work on bigger features or supporting one another when tackling problems.
+
 - Local JSON API to add and manage requests
 - Geolocation API to get the geographical position of a user
 - Nominatim API to acquire the geographic coordinates
@@ -30,11 +31,13 @@
 
 
 ## Lessons Learned
-- Git Branching and Merging - Getting more exposure creating an isolated environment to try out a new feature and merging it to the develop branch and resolving conflicts that surfaced.
-
-- Using the Scrum framework one of our instructors acted as a product owner but we created the backlog ourselves and picked off user stories to plan each sprint. One of us acted as a Scrum master to manage the work we were doing.
+- Virtual DOM 
 
 - External APIs and async Javascript ( Promises, fetch API and error handling ).
+
+- Git Branching and Merging - Getting more exposure creating an isolated environment to try out a new feature and merging it to the develop branch and resolving conflicts that surfaced.
+
+- Scrum framework - As the project only lasted a week we had mini sprints of 2 days. At the start of each morning we had a standup to discuss what we had been working on and what we were going to do today using Trello Kanban giving us perspective on the project. At the end of the project we had a retrospective to discuss what we learned, what we would do differently and what was successful.
 
 
 ## Screenshots
