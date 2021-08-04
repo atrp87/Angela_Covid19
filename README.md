@@ -1,4 +1,4 @@
-# Chillhop Player
+# Angela ( COVID-19 )
 > A Full-stack application that involves volunteers collecting food, medication or other essential supplies for someone who is self-isolating or vulnerable, and delivering these supplies to their home.
 > Live demo [_here_](https://boring-wozniak-c62dd8.netlify.app/#/).
 
@@ -59,7 +59,8 @@ Project is: _no longer being worked on_ ( I'm aware there are issues will be ret
 
 ## Acknowledgements
 
-- This project wasn't based on anything but during our retrospective we found strong similarities with [GoodSAM](https://www.goodsamapp.org/).
+- This project wasn't inspired by anything but during our retrospective we found strong similarities with [GoodSAM](https://www.goodsamapp.org/).
+- Many thanks to the team [Jun](https://github.com/junInUK) and [Sam](https://github.com/samshum90)
 
 ## Contact
 Created by [drewpeattie@hotmail.com](mailto:drewpeattie@hotmail.com) - feel free to contact me!
