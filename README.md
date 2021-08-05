@@ -6,6 +6,7 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Lessons Learned](#Lessons-learned)
+* [MVP](#MVP)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Project Status](#project-status)
@@ -38,6 +39,13 @@
 - Git Branching and Merging - Getting more exposure creating an isolated environment to try out a new feature and merging it to the develop branch and resolving conflicts that surfaced.
 
 - Scrum framework - As the project only lasted a week we had mini sprints of 2 days. At the start of each morning we had a standup to discuss what we had been working on and what we were going to do today using Trello Kanban giving us perspective on the project. At the end of the project we had a retrospective to discuss what we learned, what we would do differently and what was successful.
+
+
+## MVP
+- The app should will be able to show a list of needs from the people in isolation e.g Groceries, Medication
+- The user will be able to edit a specific need
+- The user will be able to add a need.
+- The user will be able to delete a specific need
 
 
 ## Screenshots
